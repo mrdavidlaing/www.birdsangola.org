@@ -223,7 +223,9 @@
     <un:offset2>3911</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -232,7 +234,8 @@
     <un:offset2>3911</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -475,7 +478,9 @@
     <un:offset2>5474</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -484,7 +489,8 @@
     <un:offset2>5474</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -727,7 +733,9 @@
     <un:offset2>4484</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -736,7 +744,8 @@
     <un:offset2>4484</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -979,7 +988,9 @@
     <un:offset2>3656</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -988,7 +999,8 @@
     <un:offset2>3656</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -1231,7 +1243,9 @@
     <un:offset2>4404</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -1240,7 +1254,8 @@
     <un:offset2>4404</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -1483,7 +1498,9 @@
     <un:offset2>150423</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -1492,7 +1509,9 @@
     <un:offset2>9878</un:offset2>
     <un:linenum>61</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -1501,7 +1520,8 @@
     <un:offset2>150423</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -1744,7 +1764,9 @@
     <un:offset2>7157</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -1753,7 +1775,8 @@
     <un:offset2>7157</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -1996,7 +2019,9 @@
     <un:offset2>4231</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -2005,28 +2030,22 @@
     <un:offset2>3847</un:offset2>
     <un:linenum>46</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
-    <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/contactus.htm</un:fileurl>
+    <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/index.html.htm</un:fileurl>
     <un:offset1>412</un:offset1>
     <un:offset2>4231</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>ClearLangForSite</un:ruleid>
-    <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/contactus.htm</un:fileurl>
-    <un:offset1>412</un:offset1>
-    <un:offset2>4231</un:offset2>
-    <un:linenum>9</un:linenum>
-    <un:status>MANUAL</un:status>
-    <un:message></un:message>
-  </un:pbmitem>
-  <un:pbmitem>
-    <un:ruleid>ClarifyNatLangUsage</un:ruleid>
+    <un:ruleid>ClearLangForSite</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/contactus.htm</un:fileurl>
     <un:offset1>412</un:offset1>
     <un:offset2>4231</un:offset2>
@@ -2035,7 +2054,16 @@
     <un:message></un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:ruleid>ClarifyNatLangUsage</un:ruleid>index.html
+    <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/contactus.htm</un:fileurl>
+    <un:offset1>412</un:offset1>
+    <un:offset2>4231</un:offset2>
+    <un:linenum>9</un:linenum>
+    <un:status>MANUAL</un:status>
+    <un:message></un:message>
+  </un:pbmitem>
+  <un:pbmitem>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2044,7 +2072,7 @@
     <un:message>No ALT defined for image.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2053,7 +2081,7 @@
     <un:message>No ALT defined for image.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2062,7 +2090,7 @@
     <un:message>No ALT defined for image.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2071,7 +2099,7 @@
     <un:message>No ALT defined for image.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2080,7 +2108,7 @@
     <un:message>No ALT defined for image.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2089,7 +2117,7 @@
     <un:message>No ALT defined for image.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2098,7 +2126,7 @@
     <un:message>No ALT defined for image.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2107,7 +2135,7 @@
     <un:message>No ALT defined for image.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2116,7 +2144,7 @@
     <un:message>No ALT defined for image.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGwValidALT</un:ruleid>
+    <un:ruleid>nspIMGwValidALT</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2125,7 +2153,7 @@
     <un:message>No ALT defined for image.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGwEquivalentALT</un:ruleid>
+    <un:ruleid>nspIMGwEquivalentALT</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2134,7 +2162,7 @@
     <un:message></un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2143,7 +2171,7 @@
     <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2152,7 +2180,7 @@
     <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2161,7 +2189,7 @@
     <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2170,7 +2198,7 @@
     <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2179,7 +2207,7 @@
     <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2188,7 +2216,7 @@
     <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2197,7 +2225,7 @@
     <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2206,7 +2234,7 @@
     <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2215,7 +2243,7 @@
     <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2224,7 +2252,7 @@
     <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>
+    <un:ruleid>nspIMGneedsLongdesc</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>2586</un:offset2>
@@ -2233,7 +2261,7 @@
     <un:message>Non-spacer image may need a LONGDESC attribute.</un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>DontRelyOnColorAlone</un:ruleid>
+    <un:ruleid>DontRelyOnColorAlone</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>65</un:offset1>
     <un:offset2>5972</un:offset2>
@@ -2242,7 +2270,7 @@
     <un:message></un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>ColorsAreVisible</un:ruleid>
+    <un:ruleid>ColorsAreVisible</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>65</un:offset1>
     <un:offset2>5972</un:offset2>
@@ -2251,14 +2279,16 @@
     <un:message></un:message>
   </un:pbmitem>
   <un:pbmitem>
-    <un:ruleid>TableWithHeaders</un:ruleid>
+    <un:ruleid>TableWithHeaders</un:ruleid>index.html
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
     <un:offset1>406</un:offset1>
     <un:offset2>5965</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
-  </un:pbmitem>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
+  </un:pbmitem>index.html
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
     <un:fileurl>file:///C|/Documents and Settings/Michael Mills/My Documents/Angola/Website/Index.htm</un:fileurl>
@@ -2266,7 +2296,9 @@
     <un:offset2>5485</un:offset2>
     <un:linenum>46</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -2275,7 +2307,8 @@
     <un:offset2>5965</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -2518,7 +2551,9 @@
     <un:offset2>3664</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -2527,7 +2562,8 @@
     <un:offset2>3664</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -2932,7 +2968,9 @@
     <un:offset2>12623</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -2941,7 +2979,9 @@
     <un:offset2>4616</un:offset2>
     <un:linenum>47</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -2950,7 +2990,9 @@
     <un:offset2>5727</un:offset2>
     <un:linenum>67</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -2959,7 +3001,9 @@
     <un:offset2>7170</un:offset2>
     <un:linenum>84</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -2968,7 +3012,9 @@
     <un:offset2>8486</un:offset2>
     <un:linenum>105</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -2977,7 +3023,9 @@
     <un:offset2>9242</un:offset2>
     <un:linenum>119</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -2986,7 +3034,9 @@
     <un:offset2>10444</un:offset2>
     <un:linenum>131</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -2995,7 +3045,9 @@
     <un:offset2>11029</un:offset2>
     <un:linenum>144</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -3004,7 +3056,9 @@
     <un:offset2>11620</un:offset2>
     <un:linenum>154</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -3013,7 +3067,9 @@
     <un:offset2>12239</un:offset2>
     <un:linenum>163</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -3022,7 +3078,8 @@
     <un:offset2>12623</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>NoFlickeringGIFs</un:ruleid>
@@ -3031,7 +3088,8 @@
     <un:offset2>12623</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains GIF images: Are they causing the screen toflicker? If so, please modify or remove the images.</un:message>
+    <un:message>The page contains GIF images: Are they causing the screen to
+flicker? If so, please modify or remove the images.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -3292,7 +3350,9 @@
     <un:offset2>10787</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -3301,7 +3361,9 @@
     <un:offset2>6539</un:offset2>
     <un:linenum>91</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -3310,7 +3372,8 @@
     <un:offset2>10787</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -3553,7 +3616,9 @@
     <un:offset2>88240</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>TableWithHeaders</un:ruleid>
@@ -3562,7 +3627,9 @@
     <un:offset2>4830</un:offset2>
     <un:linenum>49</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -3571,7 +3638,8 @@
     <un:offset2>88240</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -3904,7 +3972,9 @@
     <un:offset2>14183</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -3913,7 +3983,8 @@
     <un:offset2>14183</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -4156,7 +4227,9 @@
     <un:offset2>4074</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>LinkToPluginIsPresent</un:ruleid>
@@ -4183,7 +4256,8 @@
     <un:offset2>4074</un:offset2>
     <un:linenum>9</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
@@ -4426,7 +4500,9 @@
     <un:offset2>2901</un:offset2>
     <un:linenum>12</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>The page contains a table that might be used to present data.If this is the case, then the table must have headers forrows and columns (i.e., strings with TH tags).</un:message>
+    <un:message>The page contains a table that might be used to present data.
+If this is the case, then the table must have headers for
+rows and columns (i.e., strings with TH tags).</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>SkipRepetitiveLinks</un:ruleid>
@@ -4435,7 +4511,8 @@
     <un:offset2>2923</un:offset2>
     <un:linenum>11</un:linenum>
     <un:status>MANUAL</un:status>
-    <un:message>Check if a textual link is present for skipping navigationallinks that are repeated in all the pages.</un:message>
+    <un:message>Check if a textual link is present for skipping navigational
+links that are repeated in all the pages.</un:message>
   </un:pbmitem>
   <un:pbmitem>
     <un:ruleid>ClearLangForSite</un:ruleid>
