@@ -1,0 +1,54 @@
+<HEAD>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+function goForit() 
+{
+	var location;
+	var password;
+	password=this.document.testform.inputbox.value
+	location=password + ".htm"
+	fetch(location)
+	theKeeper=window.close()
+}
+
+function fetch(location) 
+{
+	var root;
+	if (opener.closed) 
+	{
+		root=window.open('','theKeepersGopher','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no');
+		root.location.href = location;
+	} else {
+		opener.location.href = location;
+	}
+}
+// End -->
+</SCRIPT>
+<style type="text/css">
+<!--
+.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+.style2 {font-size: 12px}
+-->
+</style>
+<BODY onLoad="top.window.focus()">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=55%>
+<TR>
+<TD ROWSPAN=2 WIDTH=29%><img src="images/tempcavechat2.jpg" width="125" height="80"></td>
+<TD WIDTH=71% ALIGN=CENTER VALIGN=MIDDLE><span class="style1">Welcome to the Luanda Birders's page! Please enter your password below or email <a href="mailto: birdsangola@gmail.com">Michael</a> to get one</span></td>
+</tr>
+<TR>
+<TD WIDTH=71% ALIGN=CENTER VALIGN=BOTTOM>
+<CENTER>
+<FORM NAME="testform">
+<INPUT TYPE="text" NAME="inputbox" VALUE="" size=20>
+<INPUT TYPE="button" NAME="button" Value="Submit Password" onClick="goForit(this.form)">
+</FORM>
+</CENTER>
+</td>
+</tr>
+</TABLE>
+</body>
